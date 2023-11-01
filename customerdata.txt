@@ -1,0 +1,8 @@
+Welcome to the FRESHCO grocery system!
+
+Customer informations:
+
+likee|taman bahaya, likee13@gmail.com, 0123113783, male, 23/10/2002, 1331
+ella|taman jaya, cinderella@gmail.com,  0127564980, female, 20/11/1995, 4765
+linnie|taman mulia, linnie@gmail.com, 0189067534, female, 3/8/1996, 2686
+andreas|ampang, andreas12@gmail.com, 0165343980, male, 2/5/1990, 2590

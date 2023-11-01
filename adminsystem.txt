@@ -1,0 +1,7 @@
+Welcome to the FRESHCO grocery admin system!
+
+Admin password:101417
+Admin Username:
+
+adrian
+jovie

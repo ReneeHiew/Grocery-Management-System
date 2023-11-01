@@ -1,0 +1,11 @@
+Welcome to the FRESHCO grocery system!
+
+Customer orders:
+
+likee: 1234|yummy beans, baked beans (canned/jarred goods), 20/12/22, rm 16
+
+linnie: 2099|mr clean , magic mop(household), n/a, rm22
+
+linnie: 1014|vievie tissue, tissue(household), n/a , rm 18.90
+
+
